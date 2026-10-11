@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/user-success-wg",
+  "@type": "gh:Repository",
+  "gh:name": "user-success-wg",
+  "gh:owner": "psf",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/psf/user-success-wg/commit/16d552e3aff47ab1a86419316c30a21ac653a064",
+      "git:hexsha": "16d552e3aff47ab1a86419316c30a21ac653a064",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "user-success-wg",
+  "versions": [
+    {
+      "commit": "16d552e3aff47ab1a86419316c30a21ac653a064",
+      "parsed_at": "2026-10-11T07:56:44.130872+00:00",
+      "filetree": "filetree/16d552e3aff47ab1a86419316c30a21ac653a064.nq.gz",
+      "blobs": [
+        "blob/04ba7868722207806b81e9cb8a2e201351157bf1.nq.gz",
+        "blob/0628c3d58d86933aecc3ba53909698a8f57f733c.nq.gz",
+        "blob/3c7f8ed7f7268270979b48cabdf976bb2568cde6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
